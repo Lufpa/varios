@@ -21,3 +21,4 @@ samtools view -s 99.$FACTOR -b $bam > $outdir/$subbam
 
 
 
+
