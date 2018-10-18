@@ -9,6 +9,7 @@
 
 # run the script from the folder where the bam files are located
 
+
 outdir=subsample
 downsample=bamlist_downsample  #one column file with the number of reads needed
 list=bamlist  #one column file with the name of the bam files
